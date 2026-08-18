@@ -29,6 +29,11 @@ Each project contains:
 
 **Learn → Build → Test → Debug → Understand → Document → Improve**
 
+## Projects
+
+| # | Project | Hardware | Status |
+|---|---|---|---|
+| 01 | [LED Blink](./01-led-blink/) | Raspberry Pi Zero 2 W | ✅ Completed |
 ---
 
 *This repository is continuously updated as new projects are completed.*
