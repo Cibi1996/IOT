@@ -9,7 +9,7 @@ Each project is built practically, tested, documented, and added to this reposit
 | #  | Project | Hardware | Status |
 |----|---------|----------|--------|
 | 01 | [LED Blink](01-led-blink) | Raspberry Pi Zero 2 W | ✅ Completed |
-| 02 | [Motion Capture Camera](02-motion-camera) | Raspberry Pi Zero 2 W + Camera Module | ✅ Completed |
+| 02 | [2.MotionCaptureCamera](02-motion-camera) | Raspberry Pi Zero 2 W + Camera Module | ✅ Completed |
 
 ## Project Documentation
 
