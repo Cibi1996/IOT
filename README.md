@@ -8,8 +8,8 @@ Each project is built practically, tested, documented, and added to this reposit
 
 | #  | Project | Hardware | Status |
 |----|---------|----------|--------|
-| 01 | [LED Blink](01-led-blink) | Raspberry Pi Zero 2 W | ✅ Completed |
-| 02 | [2.MotionCaptureCamera](02-motion-camera) | Raspberry Pi Zero 2 W + Camera Module | ✅ Completed |
+| 01 | [LED Blink](https://github.com/Cibi1996/IOT/tree/main/01-led-blink) | Raspberry Pi Zero 2 W | ✅ Completed |
+| 02 | [Motion Capture Camera](https://github.com/Cibi1996/IOT/tree/main/2.MotionCaptureCamera) | Raspberry Pi Zero 2 W + Camera Module | ✅ Completed |
 
 ## Project Documentation
 
